@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.ecb76223.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hk.png": "/static/media/hk.87c8dfbf4337aad41c6c.png",
+    "static/media/ferriswheel.png": "/static/media/ferriswheel.31e8fb1e7a247d2585fe.png",
+    "static/media/insta485.png": "/static/media/insta485.a5f34bce55285bc64167.png",
+    "static/media/shapolang.jpg": "/static/media/shapolang.7fd6c77c7fba3ad8431f.jpg",
+    "static/media/dashduck.png": "/static/media/dashduck.545f6182844efca3dc2b.png",
+    "static/media/raveler.png": "/static/media/raveler.df0077ce805f461260b3.png",
+    "static/media/menu.png": "/static/media/menu.f6763f795c305ba5cb36.png",
+    "static/media/fish2.jpg": "/static/media/fish2.d1cf5b03914ee78a5da6.jpg",
+    "static/media/quarantine.jpg": "/static/media/quarantine.7033001fc9e8b247a774.jpg",
+    "static/media/flora.jpg": "/static/media/flora.f3d1310689a2dcd4dddf.jpg",
+    "static/media/fish1.jpg": "/static/media/fish1.8cc47f1b3172c97ccc66.jpg",
+    "static/media/about.jpg": "/static/media/about.7f86563a8438727b057c.jpg",
+    "static/media/lubixing.jpg": "/static/media/lubixing.945ff0dc49e665eac88d.jpg",
+    "static/media/ask485.png": "/static/media/ask485.358513343a06d80fa1b3.png",
+    "static/media/unravel.png": "/static/media/unravel.b9d95a342d8c9318ac73.png",
+    "static/media/SantaUno.jpg": "/static/media/SantaUno.8acef3fd42e512cc5882.jpg",
+    "static/media/hyy_resume.pdf": "/static/media/hyy_resume.6e8134eaeadfe2839fbf.pdf",
+    "static/media/linjingheng.jpg": "/static/media/linjingheng.18185f758e68f2c61a91.jpg",
+    "static/media/YoshikoKawashima.jpg": "/static/media/YoshikoKawashima.ffcfb82f90a7a323f5d0.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/windy.jpg": "/static/media/windy.bf13f3e16ed0a9cbba60.jpg",
+    "static/media/mcareer.png": "/static/media/mcareer.e39d137d40cb7ef9ab66.png",
+    "static/media/blackwhite.png": "/static/media/blackwhite.b363ddcad4a2fca3fa5a.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.ecb76223.js.map": "/static/js/main.ecb76223.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.ecb76223.js"
+  ]
+}
